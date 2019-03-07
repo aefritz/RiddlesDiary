@@ -1,0 +1,12 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/8/84/Parchment.00.jpg);
+}
+svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+}
