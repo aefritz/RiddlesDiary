@@ -1,1 +1,1 @@
-[Deployed page](defiant-beast.surge.sh)
+[Deployed page](http://defiant-beast.surge.sh)
